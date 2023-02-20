@@ -1,2 +1,2 @@
 # Prime
- Meu primeiro repositório.
+ Primeiro repositório feito para entender versionamento.
