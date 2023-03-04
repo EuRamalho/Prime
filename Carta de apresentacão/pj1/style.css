@@ -8,7 +8,9 @@ title{
 
 h1{
     font-family: Arial, Helvetica, sans-serif;
-    font-size: 12px;
+    color: rgb(0, 0, 0);
+    font-size: 16px;
+    font-style: italic;
 }
 
 .reflexao {
@@ -18,10 +20,16 @@ h1{
     font-style: italic;
 }
 
+ol {
+    font-family: sans-serif;
+    color: black;
+    font-size: 19px;
+}
+
 .ordem{
-    font-family: Arial, Helvetica, sans-serif;
-    color: antiquewhite;
-    font-size: 24px;
+    font-family: sans-serif;
+    color: rgb(0, 0, 0);
+    font-size: 19px;
 }
 
 li{
@@ -44,6 +52,13 @@ li{
 h2{
     font-family: Arial, Helvetica, sans-serif;
     font-size: 12px;
+}
+
+.frase {
+    font-family: sans-serif;
+    color: black;
+    font-size: 22px;
+    font-style: italic;
 }
 
 #footer_copyright {
