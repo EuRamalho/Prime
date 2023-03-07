@@ -6,6 +6,7 @@
 
 body {
     background-color: rgb(4, 4, 77);
+    padding: 20px;
 }
 
 title{
@@ -38,10 +39,22 @@ h1{
     font-style: italic;
 }
 
-ol {
+li {
+    font-family: sans-serif;
+    color: whitesmoke;
+    font-size: 30px;
+    padding: 10px;
+}
+
+.home {
     font-family: sans-serif;
     color: black;
     font-size: 19px;
+    padding: 20px;
+}
+
+ul {
+    padding: 20px;
 }
 
 .ordem{
@@ -53,6 +66,7 @@ ol {
 li{
     font-family: Arial, Helvetica, sans-serif;
     font-size: 12px;
+    padding: 25px;
 }
 
 .titulo{
@@ -74,8 +88,8 @@ h2{
 
 .frase {
     font-family: sans-serif;
-    color: black;
-    font-size: 22px;
+    color: white;
+    font-size: 18px;
     font-style: italic;
 }
 
