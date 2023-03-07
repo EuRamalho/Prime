@@ -33,6 +33,7 @@ h1{
     color: rgb(150, 144, 137);
     font-size: 22px;
     font-style: italic;
+    padding: 20px;
 }
 
 li {
@@ -43,20 +44,11 @@ li {
 }
 
 .home {
-    font-family: sans-serif;
-    color: black;
-    font-size: 19px;
     padding: 20px;
 }
 
 ul {
     padding: 20px;
-}
-
-.ordem{
-    font-family: sans-serif;
-    color: rgb(0, 0, 0);
-    font-size: 19px;
 }
 
 li{
