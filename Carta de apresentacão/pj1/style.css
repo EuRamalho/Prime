@@ -5,7 +5,7 @@
 }
 
 body {
-    background-color: rgb(4, 4, 77);
+    background-color: rgb(9, 9, 71);
     padding: 20px;
 }
 
@@ -20,12 +20,14 @@ h1{
     font-family: Arial, Helvetica, sans-serif;
     color: blanchedalmond;
     font-style: italic;
+    
 }
 
 #topbar a.p2{
     font-family: Arial, Helvetica, sans-serif;
     color: blanchedalmond;
     font-style: italic;
+    
 }
 
 .reflexao {
@@ -62,11 +64,6 @@ li{
     color: rgb(150, 144, 137);
     font-size: 22px;
     font-style: italic;
-}
-
-h2{
-    font-family: Arial, Helvetica, sans-serif;
-    font-size: 12px;
 }
 
 .frase {
