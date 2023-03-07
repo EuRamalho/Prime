@@ -9,10 +9,6 @@ body {
     padding: 20px;
 }
 
-title{
-    font-family: Georgia, 'Times New Roman', Times, serif;
-}
-
 h1{
     font-family: Arial, Helvetica, sans-serif;
     color: rgb(0, 0, 0);
@@ -74,11 +70,6 @@ li{
     color: rgb(150, 144, 137);
     font-size: 22px;
     font-style: italic;
-}
-
-.naordem{
-    font-family: Arial, Helvetica, sans-serif;
-    font-size: 12px;
 }
 
 h2{
