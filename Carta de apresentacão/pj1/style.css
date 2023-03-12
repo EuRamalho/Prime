@@ -41,7 +41,7 @@ h1{
 li {
     font-family: sans-serif;
     color: whitesmoke;
-    font-size: 30px;
+    font-size: 18px;
     padding: 10px;
 }
 
@@ -53,15 +53,9 @@ ul {
     padding: 20px;
 }
 
-li{
-    font-family: Arial, Helvetica, sans-serif;
-    font-size: 12px;
-    padding: 25px;
-}
-
 p {
     font-family: sans-serif;
-    color: rgb(150, 144, 137);
+    color: rgb(0, 0, 0);
     font-size: 22px;
     font-style: italic;
 }
@@ -83,3 +77,8 @@ p {
     font-weight: 100;
 }
 
+ol {
+    font-family: sans-serif;
+    color: hwb(hue white black);
+    font-size: 15px;
+}
